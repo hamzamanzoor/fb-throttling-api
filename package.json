@@ -1,0 +1,29 @@
+{
+  "name": "Fb-API-Throttling-Client",
+  "version": "0.0.1",
+  "description": "A facebook throttling API client",
+  "homepage": "https://github.com/hamzamanzoor/fbthrot",
+  "author": {
+    "name": "Hamza Manzoor",
+    "email": "hamzahbk@gmail.com",
+    "url": "https://github.com/hamzamanzoor"
+  },
+  "keywords": [
+    "fb",
+    "facebook",
+    "throttling",
+    "graph-API"
+  ],
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "4.9.0",
+    "limiter": "^1.0.5",
+    "q": "^1.2.0",
+    "request": "2.42.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hamzamanzoor/fbthrot.git"
+  },
+  "readme": "ERROR: No README data found!"
+}
