@@ -2,7 +2,7 @@
   "name": "Fb-API-Throttling-Client",
   "version": "0.0.1",
   "description": "A facebook throttling API client",
-  "homepage": "https://github.com/hamzamanzoor/fbthrot",
+  "homepage": "https://github.com/hamzamanzoor/fb-throttling-api",
   "author": {
     "name": "Hamza Manzoor",
     "email": "hamzahbk@gmail.com",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hamzamanzoor/fbthrot.git"
+    "url": "git://github.com/hamzamanzoor/fb-throttling-api.git"
   },
   "readme": "ERROR: No README data found!"
 }
